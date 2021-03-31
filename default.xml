@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote  name="ThreeLevelCacheDemo"
-           fetch="ssh://git@github.com:LZzzzz/ThreeLevelCacheDemo.git"
+           fetch="git@github.com:LZzzzz/ThreeLevelCacheDemo.git"
            revision="master" />
 
   <remote  name="RxAndroidDemo"
-           fetch="ssh://git@github.com:LZzzzz/RxAndroidDemo.git"
+           fetch="git@github.com:LZzzzz/RxAndroidDemo.git"
            revision="master" />
 
   <default
